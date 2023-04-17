@@ -12,7 +12,7 @@ Weekly exercises: https://github.com/thanhdanhHCMUS/HCMUS-Introduction-To-Progra
 Course code: CSC10004\
 Course name: Introduction to Information Technology\
 Tên tiếng Việt: Nhập môn Công nghệ thông tin\
-Weekly exercises: https://github.com/thanhdanhHCMUS/University-Documents/tree/main/Semester%201/Introduction%20to%20Computer%20Science/CNTN/Practice\
+Weekly exercises: https://github.com/thanhdanhHCMUS/University-Documents/tree/main/Semester%201/Introduction%20to%20Computer%20Science/CNTN/Practice \
 Final project: https://github.com/thanhdanhHCMUS/HCMUS-Intro-to-IT-Project-Caro-Game
 
 **03.**\
